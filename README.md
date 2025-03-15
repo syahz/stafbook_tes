@@ -20,7 +20,7 @@
 
 4. Generate Key
 ```bash
-    php artisan generate key
+    php artisan key:generate
 ```
 
 5.  Run migrate for laravel
